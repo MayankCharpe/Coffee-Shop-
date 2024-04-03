@@ -1,0 +1,182 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Cookie&family=Croissant+One&family=Dosis&family=EB+Garamond:wght@600&family=Noto+Serif:wght@500&family=Open+Sans:wght@300&family=Redressed&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  scroll-behavior: smooth;
+  /* font-family: 'Noto Serif', serif; */
+  font-family: 'EB Garamond', serif;
+  
+}
+ 
+
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #b2744c;
+  border-radius: 10px;
+}
+html::-webkit-scrollbar {
+  width: 10px;
+}
+
+.navbar {
+  background-color: #b2744c;
+}
+.btn {
+  color: white;
+}
+/* ------------sect-2---------------- */
+
+.head {
+  width: 100%;
+  height: 670px;
+  color: aliceblue;
+  background-image: url("./images/bc3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 90%;
+}
+.btn1 {
+  background-color: #c38e65;
+}
+/* -----------------section-3----------------------- */
+
+.btn1{
+  /* width: 150px;
+  height: 30px; */
+  background-color:white;
+  color: #b2744c;
+  border: 2px solid #b2744c ;
+
+}
+
+.btn1:hover{
+  color: white;
+  background-color:#b2744c ;
+
+}
+.abt1{
+  color: #B2744C;
+}
+
+
+/*-----------------------secton-4------------  */
+
+.cards:hover {
+  transform: translateY(-13px);
+  transition: 0.10s;
+}
+.tc1{
+  color: #B2744C;
+}
+/*----------------section-5--------------------  */
+
+.fa-star{
+  color: #b2744c;
+}
+
+.c1 h4{
+  color: #b2744c;
+
+}
+.c1 p{
+  color: #b2744c;
+
+}
+.menu{
+  border-bottom: 3px solid #b2744c ;
+}
+.menu h2{
+  color: #B2744C;
+}
+
+/* --------------------------section-6------------------- */
+.products{
+  border-bottom: 3px solid #b2744c ;
+}
+
+.products  p{
+  color: #B2744C;
+}
+.products  h2{
+  color: #B2744C;
+}
+.products  h4{
+  color: #B2744C;
+}
+/* ---------------------section-7----------------- */
+
+.gall1{
+  color: #b2744c;
+}
+/* ------------section-8--------------- */
+
+.d1 {
+  height: 500px;
+  background-color: #f7f5f2;
+  /* float: left; */
+}
+.d2 {
+  height: 500px;
+  background-color: #b2744c;
+}
+.btn3{
+  background-color:white;
+  color: #b2744c;
+  border: 2px solid #b2744c ;
+  
+}
+.btn3:hover{
+  color: white;
+  background-color:#b2744c ;
+
+}
+
+.con1{
+  color: #b2744c;
+}
+
+/* ---------------blog sec-------------- */
+.blog{
+  color: #b2744c;
+}
+
+.b1 h5{
+  color: #b2744c;
+}
+
+/* -----------------form sec-------------------- */
+
+
+.but2{
+  /* width: 150px;
+  height: 30px; */
+  background-color:white;
+  color: #b2744c;
+  border: 2px solid #b2744c ;
+
+}
+
+.but2:hover{
+  color: white;
+  background-color:#b2744c ;
+
+}
+
+/* ---------------footer-----------*/
+
+.card1{
+height: 250px;
+  background-color: #B2744C;
+}
+.fa-brands{
+  cursor: pointer;
+  font-size: 40px;
+}
